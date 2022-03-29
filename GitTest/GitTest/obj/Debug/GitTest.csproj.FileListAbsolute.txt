@@ -1,0 +1,7 @@
+D:\RPA22\GitTest\GitTest\bin\Debug\GitTest.exe.config
+D:\RPA22\GitTest\GitTest\bin\Debug\GitTest.exe
+D:\RPA22\GitTest\GitTest\bin\Debug\GitTest.pdb
+D:\RPA22\GitTest\GitTest\obj\Debug\GitTest.csproj.AssemblyReference.cache
+D:\RPA22\GitTest\GitTest\obj\Debug\GitTest.csproj.CoreCompileInputs.cache
+D:\RPA22\GitTest\GitTest\obj\Debug\GitTest.exe
+D:\RPA22\GitTest\GitTest\obj\Debug\GitTest.pdb
